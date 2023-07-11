@@ -1,0 +1,44 @@
+[
+    {
+        "marca" : "Star Wars",
+        "nombre" : "Luke Skywalker",
+        "precio": 567813,
+        "stock" : 3
+    },
+    {
+        "marca" : "Star Wars",
+        "nombre" : "Scout Trooper",
+        "precio": 456812,
+        "stock" : 9
+    },
+    {
+        "marca" : "Star Wars",
+        "nombre" : "Boba Fett",
+        "precio": 356781,
+        "stock" : 7
+    },
+    {
+        "marca" : "Star Wars",
+        "nombre" : "Dark Trooper",
+        "precio": 378901,
+        "stock" : 11
+    },
+    {
+        "marca" : "Star Wars",
+        "nombre" : "Kessel Run",
+        "precio": 456718,
+        "stock" : 14
+    },
+    {
+        "marca" : "Star Wars",
+        "nombre" : "Jedi",
+        "precio": 356719,
+        "stock" : 18
+    },
+    {
+        "marca" : "Star Wars",
+        "nombre" : "Ahsoka Tano",
+        "precio": 367819,
+        "stock" : 17
+    }
+]
